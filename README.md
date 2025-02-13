@@ -1,17 +1,19 @@
 # Algorithms and Strucures
 
-Algorithms &amp; Structure Studies and Implementation.
+Algorithms &amp; Structure Studies and Implementation in Python and Sometimes Rust and C++.
 
-## 📝Content
+## 🌞Content
 
-- Techniques:
-  - Hash Taples
-  - Two Pointers
-  - Sliding windows
+Techniques:
 
-- Structures:
-  - Binary Trees
-  - Heaps, Priority Queues and Heap search
+- Hash Taples
+- Two Pointers
+- Sliding windows
+
+Structures:
+
+- Binary Trees
+- Heaps, Priority Queues and Heap search
 
 ---
 
