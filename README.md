@@ -5,13 +5,13 @@ Algorithms &amp; Structure Studies and Implementation.
 ## 📝Content
 
 - Techniques:
-  1. Hash Taples
-  2. Two Pointers
-  3. Sliding windows
+  - Hash Taples
+  - Two Pointers
+  - Sliding windows
 
 - Structures:
-  1. Binary Trees
-  2. Heaps, Priority Queues and Heap search
+  - Binary Trees
+  - Heaps, Priority Queues and Heap search
 
 ---
 
