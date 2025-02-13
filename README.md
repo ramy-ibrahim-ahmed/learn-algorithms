@@ -1,7 +1,20 @@
-# Algorithms
+# Algorithms and Strucures
 
-Algorithms &amp; Data structure studies and implementation.
+Algorithms &amp; Structure Studies and Implementation.
 
-## Leet-Code padges
+## 📝Content
 
-<img src="50_day_2024.png" alt="img" width="300"/>
+- Techniques:
+  1. Hash Taples
+  2. Two Pointers
+  3. Sliding windows
+
+- Structures:
+  1. Binary Trees
+  2. Heaps, Priority Queues and Heap search
+
+---
+
+## 😎Achievements
+
+<img src="50_day_2024.png" alt="img" width="200"/>
